@@ -5,29 +5,29 @@
       "minecraft:mutton": 2
     },
     "minecraft:used": {
-      "minecraft:stone": 28
+      "minecraft:stone": 32
     },
     "minecraft:dropped": {
       "minecraft:mutton": 2,
       "minecraft:brown_wool": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 3335,
-      "minecraft:walk_one_cm": 2485,
-      "minecraft:leave_game": 5,
+      "minecraft:time_since_rest": 5497,
+      "minecraft:walk_one_cm": 3114,
+      "minecraft:leave_game": 6,
       "minecraft:mob_kills": 1,
       "minecraft:walk_under_water_one_cm": 1582,
-      "minecraft:play_time": 3335,
+      "minecraft:play_time": 5497,
       "minecraft:damage_dealt": 80,
-      "minecraft:jump": 57,
-      "minecraft:time_since_death": 3335,
+      "minecraft:jump": 91,
+      "minecraft:time_since_death": 5497,
       "minecraft:drop": 2,
-      "minecraft:sprint_one_cm": 4741,
-      "minecraft:total_world_time": 4629,
-      "minecraft:fly_one_cm": 44719,
+      "minecraft:sprint_one_cm": 10366,
+      "minecraft:total_world_time": 6799,
+      "minecraft:fly_one_cm": 53709,
       "minecraft:walk_on_water_one_cm": 289,
-      "minecraft:crouch_one_cm": 73,
-      "minecraft:sneak_time": 102
+      "minecraft:crouch_one_cm": 181,
+      "minecraft:sneak_time": 176
     },
     "minecraft:killed": {
       "minecraft:sheep": 1
