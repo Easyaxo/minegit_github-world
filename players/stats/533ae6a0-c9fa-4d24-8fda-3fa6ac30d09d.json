@@ -1,9 +1,5 @@
 {
   "stats": {
-    "minecraft:killed": {
-      "minecraft:creeper": 1,
-      "minecraft:sheep": 1
-    },
     "minecraft:picked_up": {
       "minecraft:brown_wool": 1,
       "minecraft:mutton": 2
@@ -12,26 +8,30 @@
       "minecraft:mutton": 2,
       "minecraft:brown_wool": 1
     },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 6665,
-      "minecraft:walk_one_cm": 5622,
-      "minecraft:leave_game": 9,
-      "minecraft:mob_kills": 2,
-      "minecraft:walk_under_water_one_cm": 1582,
-      "minecraft:play_time": 6665,
-      "minecraft:damage_dealt": 330,
-      "minecraft:jump": 129,
-      "minecraft:time_since_death": 6665,
-      "minecraft:drop": 2,
-      "minecraft:sprint_one_cm": 15281,
-      "minecraft:total_world_time": 8454,
-      "minecraft:fly_one_cm": 63859,
-      "minecraft:walk_on_water_one_cm": 289,
-      "minecraft:crouch_one_cm": 318,
-      "minecraft:sneak_time": 249
-    },
     "minecraft:used": {
       "minecraft:stone": 39
+    },
+    "minecraft:killed": {
+      "minecraft:creeper": 1,
+      "minecraft:sheep": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 11481,
+      "minecraft:walk_one_cm": 6634,
+      "minecraft:leave_game": 10,
+      "minecraft:mob_kills": 2,
+      "minecraft:walk_under_water_one_cm": 1582,
+      "minecraft:play_time": 11481,
+      "minecraft:damage_dealt": 330,
+      "minecraft:jump": 150,
+      "minecraft:time_since_death": 11481,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 16336,
+      "minecraft:total_world_time": 14692,
+      "minecraft:fly_one_cm": 128982,
+      "minecraft:walk_on_water_one_cm": 289,
+      "minecraft:crouch_one_cm": 347,
+      "minecraft:sneak_time": 401
     }
   },
   "DataVersion": 4786
